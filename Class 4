@@ -1,0 +1,41 @@
+Hello World
+/bin/bash
+learningbash-"Hello World"
+echo $learningbash
+Echo 
+#!/bin/bash
+provider="Hostinger"
+echo 'The best hosting provider is $provider'
+echo "The best hosting provider is $provider"
+Sleep
+nano sleep.sh
+Wait Command
+nano wait.sh
+Comments
+nano comments.sh
+Get User Input
+nano read.sh
+Loop
+nano whileloop.sh
+Create An Array
+nano array.sh
+Conditional Statements
+nano if.sh
+Functions
+nano function.sh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
